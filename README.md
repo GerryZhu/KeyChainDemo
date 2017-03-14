@@ -22,3 +22,5 @@ NSLog(@"dic1 = %@",[GZKeyChain loadAccountInfo]);
 //删除所有用户的账号密码
 [GZKeyChain removeAll];
 NSLog(@"dic2 = %@",[GZKeyChain loadAccountInfo]);
+
+如在使用中有任何问题，欢迎交流！  QQ:  1141189194
